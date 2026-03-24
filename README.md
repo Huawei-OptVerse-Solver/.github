@@ -1,2 +1,2 @@
 # .github
-General information about Huawei OptVerse Solver opensource project
+General information about Huawei OptVerse Solver public project
