@@ -27,7 +27,7 @@ Our mission is to offer user-friendly tools that complement OptVerse, building a
 | :--- | :--- | :--- |
 | **Installation** | 社区版下载与安装指南 / Community edition & Setup | [前往 / Go](dummy) |
 | **Documentation** | 用户手册与 API 文档 / User Manual & API Reference | [阅读 / Read](dummy) |
-| **Trial Request** | 申请学术试用版 / Apply for a Academic Trail License| [立即申请 / Apply Now](dymmy) |
+| **Trial Request** | 申请学术试用版 / Apply for a Academic Trail License| [立即申请 / Apply Now](https://huawei-optverse-solver.github.io/application-form/#/) |
 
 ---
 
